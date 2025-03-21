@@ -186,9 +186,9 @@ FashionVision-Hierarchical-CV-Blockchain/
 
 - **Author:** ThanhVo - minthanh.codeai
 - **Email:** thanhvo.contact@gmail.com
-- **GitHub:** [username](https://github.com/ThanhVo15)
+- **GitHub:** [ThanhVo15](https://github.com/ThanhVo15)
 
 Thank you for your interest in the **FashionVision-Hierarchical-CV-Blockchain** project! If you have any questions or feedback, please open an issue or contact me directly.
-```
+
 
 
