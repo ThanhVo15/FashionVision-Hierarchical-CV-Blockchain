@@ -1,0 +1,16 @@
+# Recommended Python version: >=3.8
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+torchvision
+torchaudio          # (Optional, often installed with PyTorch)
+datasets
+accelerate
+evaluate
+psutil
+Pillow
+requests
+Flask
+flask-cors
